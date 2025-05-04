@@ -6,7 +6,7 @@
 
 <div align="center">
   <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjliOHpwZGs3c2dvM25uOXlsZzdoOXB6czZjemludXZ5NWxwbWVsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
-  <img height="350" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjliOHpwZGs3c2dvM25uOXlsZzdoOXB6czZjemludXZ5NWxwbWVsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF6MGJpMjNuczNsMTJleDl2dGtqeDA1dnM3a3U1Zmg5YWd4dDh3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4yYBKoUue9UhB9tDM/giphy.gif)"  />
+  <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF6MGJpMjNuczNsMTJleDl2dGtqeDA1dnM3a3U1Zmg5YWd4dDh3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4yYBKoUue9UhB9tDM/giphy.gif"  />
 </div>
 
 ###
