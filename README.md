@@ -1,8 +1,14 @@
-<h2 align="left">Hi 👋! My name is CGMAN</h2>
+<h1 align="left">Hi 👋! My name is CGMAN</h1>
 
 ###
 
-<h2 align="left">🥗Tech Stack:</h2>
+<br clear="both">
+
+<img align="left" height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjliOHpwZGs3c2dvM25uOXlsZzdoOXB6czZjemludXZ5NWxwbWVsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
+
+###
+
+<h1 align="left">🥗Tech Stack:</h1>
 
 ###
 
@@ -56,21 +62,13 @@
 
 ###
 
-<h2 align="left">🥪Github Stats:</h2>
+<h1 align="left">🥪Github Stats:</h1>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CornGminimate2P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CornGminimate2P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjliOHpwZGs3c2dvM25uOXlsZzdoOXB6czZjemludXZ5NWxwbWVsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 </div>
 
 ###
